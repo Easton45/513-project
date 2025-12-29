@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Yunnan Cross-Bridge Rice Noodles",
+        "description": "Traditional chicken broth base, served with fresh meat slices and organic rice noodles.",
+        "price": 45,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/mi-300x225.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Shaanxi Roujiamo (Chinese Burger)",
+        "description": "Crispy baked bun filled with rich, juicy spiced pork.",
+        "price": 18.5,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/mo-300x300.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cantonese Crystal Shrimp Dumplings",
+        "description": "Thin, translucent skin filled with whole fresh shrimp.",
+        "price": 32,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/jiao-300x200.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sichuan Spicy Hotpot Base",
+        "description": "Authentic beef tallow base, spicy and savory, perfect for home cooking.",
+        "price": 58,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/10\/huo-300x200.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Peking Roast Duck (Half)",
+        "description": "Charcoal fruit-wood roasted, crispy skin and tender meat, served with pancakes and sauce.",
+        "price": 108,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/kao-300x236.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Xinjiang Big Plate Chicken",
+        "description": "Tender chicken with soft potatoes and broad noodles that soak up the rich sauce.",
+        "price": 88,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/da-249x300.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Changsha Stinky Tofu",
+        "description": "Smells strong but tastes delicious, crispy outside and tender inside, served with secret spicy sauce.",
+        "price": 15,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/chou-225x300.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Liuzhou Snail Rice Noodles (Luosifen)",
+        "description": "Sour, spicy, fresh, and hot. Unique sour bamboo shoot flavor, authentic Liuzhou style.",
+        "price": 16.5,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/fen-225x300.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Suzhou Fresh Meat Mooncake",
+        "description": "Layers of flaky pastry, juicy meat filling, perfect balance of savory and sweet.",
+        "price": 8,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/yue-168x300.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Lanzhou Beef Noodles (Instant Pack)",
+        "description": "Authentic flavor restoration: Clear soup, white radish, red chili oil, green cilantro, and yellow noodles.",
+        "price": 22,
+        "image_path": "http:\/\/easton55.infinityfreeapp.com\/wp-content\/uploads\/2025\/12\/mian-230x300.jpg"
+    }
+]
